@@ -33,7 +33,7 @@ following steps:
 The overall architecture of the system is illustrated below:
 
 Presents supporting legal citations for interpretation
-
+```text
 User Hypothesis
 ↓
 Sentence Embedding
@@ -50,7 +50,7 @@ Final Decision and Legal Evidence
 ---
 
 ## 4. Project Structure
-
+```text
 ViLegalNLI_Demo/
 ├── Code/
 │ ├── embeded_index.py # Generate embeddings for legal premises
