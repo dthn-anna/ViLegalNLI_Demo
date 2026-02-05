@@ -45,7 +45,7 @@ Legal NLI Inference
 Score Aggregation
 ↓
 Final Decision and Legal Evidence
-
+```
 
 ---
 
@@ -61,6 +61,7 @@ ViLegalNLI_Demo/
 │
 ├── requirements.txt # Python dependencies
 └── README.md
+```
 
 ## 5. Academic Disclaimer
 This demo system is developed for academic research purposes only and does not
