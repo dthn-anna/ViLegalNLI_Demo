@@ -1,13 +1,20 @@
-# Model & Dataset
-Model/
-Dataset/
-
-# ML files
-*.pt
-*.pth
-*.safetensors
-*.npy
-
 # Python cache
 __pycache__/
 *.pyc
+
+# Dataset nặng
+*.parquet
+*.npy
+*.xlsx
+*.csv
+
+# Model / checkpoint nặng
+*.pt
+*.pth
+*.safetensors
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
